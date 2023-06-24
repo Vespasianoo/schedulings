@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview1.png)
 ![preview](./.github/preview2.png)
-![preview](./.github/preview2.png)
+![preview](./.github/preview3.png)
 
 ### 🛠 Tecnologias
 
